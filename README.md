@@ -6,8 +6,16 @@ I am Bin, passionate about numbers and equations, and on a journey to become a f
 - :woman_student: I’m currently working on my Master's degree in Computer Science with a focus on AI and ML.
 - :pencil: I'm documenting my learning experiences on GitHub.
 - ⚡ Fun fact: The MS in Computer Science is neither my first nor my second Master's degree.
+
+## Statistics 🧮
+
+## SQL ❄️
+
+## AI 🤖
+
 <!--
 **BinLi8256/BinLi8256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
