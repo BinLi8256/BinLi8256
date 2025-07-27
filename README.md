@@ -9,6 +9,8 @@ I am Bin, passionate about numbers and equations, and on a journey to become a f
 
 ## Statistics 🧮
 
+The Stat topics I am into 
+
 ## SQL ❄️
 
 ## AI 🤖
