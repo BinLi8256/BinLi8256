@@ -3,9 +3,9 @@
 I am Bin, passionate about numbers and equations, and on a journey to become a full-stack data scientist!
 - :woman_technologist: I'm currently a data scientist at a logistics company.
 - 🌱 I’m skilled in statistical analysis and data modeling techniques.
-- :woman_student: I’m currently working on my Master's degree in Computer Science with a focus on AI and ML.
+- :woman_student: I’m currently studying Computer Science with a focus on AI and ML.
 - :pencil: I'm documenting my learning experiences on GitHub.
-- ⚡ Fun fact: The MS in Computer Science is neither my first nor my second Master's degree.
+
 
 ## Statistics 🧮
 
