@@ -9,11 +9,11 @@ I am Bin, passionate about numbers and equations, and on a journey to become a f
 
 ## Statistics 🧮
 
-The Stat topics I am into 
+The Stat topics I am into ...
 
 ## SQL ❄️
 
-## AI 🤖
+## AI/ML 🤖
 
 <!--
 **BinLi8256/BinLi8256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
